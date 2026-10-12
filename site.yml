@@ -1,0 +1,5 @@
+name: Fandom Wiki
+description: Khám phá nhân vật, sự kiện và những mối liên kết trong các vũ trụ truyện của bạn.
+language: vi
+# BASE_PATH overrides this value when building for GitHub project Pages.
+basePath: ""

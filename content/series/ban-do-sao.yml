@@ -1,0 +1,10 @@
+id: ban-do-sao
+type: series
+name: Bản Đồ Sao
+universe: hai-trieu
+summary: Câu chuyện về đoàn thám hiểm tìm hòn đảo chỉ xuất hiện khi ba chòm sao gặp nhau.
+sections:
+  - title: Bối cảnh
+    body: |
+      Lấy bối cảnh ở [[hai-trieu]], bộ truyện theo chân những người vẽ bản đồ tìm hiểu bí mật của đại dương.
+order: 6

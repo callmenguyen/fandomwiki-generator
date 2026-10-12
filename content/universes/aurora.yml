@@ -1,0 +1,18 @@
+id: aurora
+type: universe
+name: Vũ trụ Aurora
+summary: Một thế giới nơi ánh sáng được lưu giữ trong pha lê, những thành phố nổi trôi giữa tầng mây và ký ức trở thành sức mạnh.
+tags: [Fantasy, Phiêu lưu]
+facts:
+  Thể loại: Kỳ ảo
+  Kỷ nguyên: Kỷ nguyên Ánh Sáng
+sections:
+  - title: Tổng quan
+    body: |
+      **Aurora** là vũ trụ của bộ truyện [[nguoi-giu-anh-sang]]. Nền văn minh ở đây phát triển quanh những mạch pha lê lưu trữ ánh sáng.
+
+      Khi nguồn sáng dần suy yếu, [[linh-an]] phải tìm ra nguyên nhân trước khi những thành phố trên mây sụp đổ.
+  - title: Địa lý và văn hóa
+    body: |
+      Trung tâm của Aurora là thành phố **Vân Cảng**, được nối với các đảo bằng những cây cầu ánh sáng. Mỗi gia đình truyền lại một viên pha lê ghi nhớ lịch sử của mình.
+order: 1

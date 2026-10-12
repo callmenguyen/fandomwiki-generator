@@ -1,0 +1,18 @@
+id: nguoi-giu-anh-sang
+type: series
+name: Người Giữ Ánh Sáng
+universe: aurora
+summary: Hành trình của Linh An và những người bảo vệ pha lê cuối cùng, từ Vân Cảng đến ranh giới bóng tối.
+facts:
+  Tình trạng: Đang phát triển
+  Số phần: 3
+sections:
+  - title: Cốt truyện
+    body: |
+      Sau [[dem-pha-le-vo]], [[linh-an]] nhận ra những ký ức bên trong pha lê đang biến mất. Cùng [[minh-kha]], cô rời Vân Cảng để tìm kho lưu trữ đầu tiên.
+  - title: Các phần truyện
+    body: |
+      1. **Thành phố trên mây** — khám phá nguồn gốc của các pha lê.
+      2. **Bên kia ranh giới** — tìm đường đến kho ký ức.
+      3. **Ánh sáng trở về** — những lựa chọn quyết định tương lai Aurora.
+order: 2

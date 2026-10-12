@@ -1,0 +1,19 @@
+id: dem-pha-le-vo
+type: event
+name: Đêm Pha Lê Vỡ
+universe: aurora
+series: [nguoi-giu-anh-sang]
+participants: [linh-an, minh-kha]
+date: Năm 312 — Kỷ nguyên Ánh Sáng
+order: 10
+summary: Biến cố khiến hàng nghìn pha lê tại Vân Cảng đồng loạt nứt vỡ, mở đầu cuộc hành trình tìm lại nguồn sáng.
+facts:
+  Địa điểm: Vân Cảng
+  Kết quả: Kho lưu trữ bị phong tỏa
+sections:
+  - title: Diễn biến
+    body: |
+      Khi chuông nửa đêm vang lên, ánh sáng trong kho lưu trữ chuyển sang màu bạc. [[linh-an]] nghe thấy một lời cảnh báo trong khi [[minh-kha]] phát hiện sự thay đổi trong các mạch năng lượng.
+  - title: Hệ quả
+    body: |
+      Sự kiện đánh dấu điểm khởi đầu của [[nguoi-giu-anh-sang]]. Nhiều ký ức quan trọng bị mất, buộc các nhân vật phải tìm đến những nguồn tư liệu ngoài Vân Cảng.

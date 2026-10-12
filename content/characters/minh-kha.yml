@@ -1,0 +1,16 @@
+id: minh-kha
+type: character
+name: Minh Kha
+universe: aurora
+series: [nguoi-giu-anh-sang]
+summary: Một kỹ sư trẻ chuyên chế tạo máy bay pha lê, đồng hành cùng Linh An trong hành trình tìm nguồn ánh sáng.
+tags: [Kỹ sư, Bạn đồng hành]
+facts:
+  Tuổi: 21
+  Nghề nghiệp: Kỹ sư pha lê
+related: [linh-an]
+sections:
+  - title: Vai trò trong truyện
+    body: |
+      Kha giúp [[linh-an]] rời Vân Cảng sau [[dem-pha-le-vo]]. Cỗ máy bay do anh chế tạo trở thành phương tiện chính của nhóm.
+order: 4

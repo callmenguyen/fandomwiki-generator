@@ -1,0 +1,33 @@
+id: linh-an
+type: character
+name: Linh An
+universe: aurora
+series: [nguoi-giu-anh-sang]
+aliases: [Người giữ ánh sáng, An]
+summary: Người học việc tại kho lưu trữ Vân Cảng, có khả năng nghe thấy ký ức trong pha lê và là nhân vật trung tâm của Người Giữ Ánh Sáng.
+tags: [Nhân vật chính, Người bảo hộ]
+facts:
+  Tuổi: 19
+  Quê quán: Vân Cảng
+  Vai trò: Người giữ pha lê
+  Năng lực: Cộng hưởng ký ức
+related: [minh-kha, dem-pha-le-vo]
+sections:
+  - title: Tiểu sử
+    body: |
+      **Linh An** lớn lên trong kho lưu trữ cổ của Vân Cảng. Từ nhỏ, cô có thể nghe thấy những giọng nói mà người khác không nhận ra — ký ức của những người từng chạm vào pha lê.
+
+      Bước ngoặt đến trong [[dem-pha-le-vo|Đêm Pha Lê Vỡ]], khi An là người duy nhất nghe được lời cảnh báo cuối cùng.
+  - title: Tính cách
+    body: |
+      Tò mò và kiên nhẫn, An luôn muốn hiểu câu chuyện phía sau mỗi hiện vật. Cô thường ghi lại những điều nghe thấy trong một cuốn sổ nhỏ.
+  - title: Năng lực
+    body: |
+      - **Cộng hưởng ký ức**: đọc được các mảnh ký ức trong pha lê.
+      - **Dệt ánh sáng**: tái tạo những hình ảnh trong quá khứ.
+
+      Năng lực chỉ hoạt động khi ký ức còn nguyên vẹn; một pha lê đã vỡ không thể được khôi phục hoàn toàn.
+  - title: Các mối quan hệ
+    body: |
+      [[minh-kha]] là bạn đồng hành và người chế tạo thiết bị giúp An kiểm soát năng lực. Cả hai gặp nhau tại kho lưu trữ trước biến cố của Vân Cảng.
+order: 3

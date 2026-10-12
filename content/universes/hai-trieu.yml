@@ -1,0 +1,10 @@
+id: hai-trieu
+type: universe
+name: Vũ trụ Hải Triều
+summary: Thế giới đại dương với những hải đảo di chuyển theo thủy triều, nơi các thủy thủ vẽ bản đồ bằng sao trời.
+tags: [Đại dương, Khám phá]
+sections:
+  - title: Tổng quan
+    body: |
+      **Hải Triều** là một vũ trụ độc lập, được kể qua [[ban-do-sao]]. Một số truyền thuyết nhắc đến [[aurora]] như vùng đất ở phía trên tầng mây.
+order: 5
