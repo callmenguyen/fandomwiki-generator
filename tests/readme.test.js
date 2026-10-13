@@ -1,0 +1,91 @@
+import { afterEach, expect, it } from 'vitest';
+import { mkdtemp, mkdir, readFile, writeFile, rm, copyFile } from 'node:fs/promises';
+import { tmpdir } from 'node:os';
+import path from 'node:path';
+import MarkdownIt from 'markdown-it';
+import { generateReadme, syncReadme } from '../src/readme.js';
+
+const roots = [];
+afterEach(async () => { await Promise.all(roots.splice(0).map(root => rm(root, { recursive: true, force: true }))); });
+async function fixture() {
+  const root = await mkdtemp(path.join(tmpdir(), 'wiki-docs-'));
+  roots.push(root);
+  for (const dir of ['content', 'docs', 'src', '.github/workflows']) await mkdir(path.join(root, dir), { recursive: true });
+  await writeFile(path.join(root, 'site.yml'), 'name: Test Wiki\ndescription: Test archive\n');
+  await writeFile(path.join(root, 'content/world.yml'), 'id: world\ntype: universe\nname: World | test\nsummary: A world\n');
+  await writeFile(path.join(root, 'package.json'), JSON.stringify({ name: 'test-wiki', version: '1.2.3', engines: { node: '>=22' }, scripts: { build: 'node src/cli.js build' }, dependencies: { yaml: '^2' } }));
+  await writeFile(path.join(root, 'src/custom.js'), 'export const value = 1;');
+  await copyFile('docs/README.template.md', path.join(root, 'docs/README.template.md'));
+  await copyFile('.github/workflows/pages.yml', path.join(root, '.github/workflows/pages.yml'));
+  return root;
+}
+it('derives header, commands, versions, source files, schema and archive from actual inputs', async () => {
+  const root = await fixture();
+  const output = await generateReadme(root);
+  expect(output).toMatch(/^# Fandom Wiki Generator/);
+  expect(output).toContain('1.2.3');
+  expect(output).toContain('npm run build');
+  expect(output).toContain('node src/cli.js build');
+  expect(output).toContain('^2');
+  expect(output).toContain('src/custom.js');
+  expect(output).toContain('World &#124; test');
+  expect(output).toContain('participants');
+  expect(output).not.toMatch(/\{\{[A-Z_]+\}\}/);
+  const pkg = JSON.parse(await readFile(path.join(root, 'package.json'), 'utf8'));
+  pkg.scripts.custom = 'node custom.js';
+  pkg.version = '2.0.0';
+  await writeFile(path.join(root, 'package.json'), JSON.stringify(pkg));
+  await writeFile(path.join(root, 'content/hero.yml'), 'id: hero\ntype: character\nname: New Hero\nsummary: New hero\nuniverse: world\n');
+  const updated = await generateReadme(root);
+  expect(updated).toContain('npm run custom');
+  expect(updated).toContain('2.0.0');
+  expect(updated).toContain('New Hero');
+  expect(updated).not.toEqual(output);
+});
+it('writes only when changed and check mode detects drift without modifying files', async () => {
+  const root = await fixture();
+  expect(await syncReadme(root)).toBe(true);
+  const before = await readFile(path.join(root, 'README.md'), 'utf8');
+  expect(await syncReadme(root)).toBe(false);
+  await writeFile(path.join(root, 'README.md'), 'outdated');
+  await expect(syncReadme(root, { check: true })).rejects.toThrow(/README/);
+  expect(await readFile(path.join(root, 'README.md'), 'utf8')).toBe('outdated');
+  await syncReadme(root);
+  expect(await syncReadme(root, { check: true })).toBe(false);
+  expect(await readFile(path.join(root, 'README.md'), 'utf8')).toBe(before);
+});
+it('does not overwrite documentation if the content or template is invalid', async () => {
+  const root = await fixture();
+  await syncReadme(root);
+  const before = await readFile(path.join(root, 'README.md'), 'utf8');
+  await writeFile(path.join(root, 'content/broken.yml'), 'type: character');
+  await expect(syncReadme(root)).rejects.toThrow();
+  expect(await readFile(path.join(root, 'README.md'), 'utf8')).toBe(before);
+  await rm(path.join(root, 'content/broken.yml'));
+  await writeFile(path.join(root, 'docs/README.template.md'), '# Test\n{{TYPO}}');
+  await expect(syncReadme(root)).rejects.toThrow(/TYPO/);
+});
+it('handles empty archives and escapes YAML names in Markdown', async () => {
+  const root = await fixture();
+  await rm(path.join(root, 'content/world.yml'));
+  expect(await generateReadme(root)).toContain('Chưa có bài viết');
+  await writeFile(path.join(root, 'content/world.yml'), 'id: world\ntype: universe\nname: "<script>[fake](evil)</script>"\nsummary: A world\n');
+  expect(await generateReadme(root)).not.toContain('<script>');
+});
+it('renders command operators and schema defaults as readable code, and encodes source links', async () => {
+  const root = await fixture();
+  const pkg = JSON.parse(await readFile(path.join(root, 'package.json'), 'utf8'));
+  pkg.scripts.check = 'npm run lint && npm run build';
+  pkg.engines.node = '^22 || >=24';
+  await writeFile(path.join(root, 'package.json'), JSON.stringify(pkg));
+  await mkdir(path.join(root, 'src/nested'));
+  await writeFile(path.join(root, 'src/nested/a file.js'), '');
+  await writeFile(path.join(root, 'content/a file.yml'), 'id: hero\ntype: character\nname: Hero\nsummary: Hero\nuniverse: world');
+  const output = await generateReadme(root);
+  const rendered = new MarkdownIt({ html: true }).render(output);
+  expect(rendered).toContain('<code>npm run lint &amp;&amp; npm run build</code>');
+  expect(rendered).toContain('<code>[]</code>');
+  expect(rendered).not.toContain('&amp;quot;');
+  expect(output).toContain('content/a%20file.yml');
+  expect(output).toContain('src/nested/a%20file.js');
+});

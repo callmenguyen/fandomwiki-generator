@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tạo nhân vật Wiki"
+  short_description: "Tạo YAML nhân vật và kiểm tra liên kết trong wiki"
+  default_prompt: "Dùng $create-character để tạo một nhân vật theo mô tả của tôi trong repository wiki này."

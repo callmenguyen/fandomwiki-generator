@@ -7,13 +7,13 @@ import { wikiReferences } from './render.js';
 const id = z.string().regex(/^[a-z0-9]+(?:-[a-z0-9]+)*$/).refine(value => value !== 'index', 'id "index" is reserved for category pages');
 const text = z.string().trim().min(1);
 export const basePathSchema = z.string().regex(/^(?:|\/(?:[a-zA-Z0-9_-]+\/?)+)$/).transform(value => value.replace(/\/$/, ''));
-const siteSchema = z.object({
+export const siteSchema = z.object({
   name: text,
   description: text.default('Bách khoa toàn thư về những thế giới tưởng tượng.'),
   language: z.string().regex(/^[a-z]{2,3}(?:-[A-Za-z0-9]+)*$/).default('vi'),
   basePath: basePathSchema.default(''),
 }).strict();
-const entitySchema = z.object({
+export const entitySchema = z.object({
   id, type: z.enum(['universe', 'series', 'character', 'event']), name: text, summary: text,
   universe: id.optional(), series: z.array(id).default([]), participants: z.array(id).default([]),
   related: z.array(id).default([]), aliases: z.array(text).default([]), tags: z.array(text).default([]),
