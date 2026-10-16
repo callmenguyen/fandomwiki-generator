@@ -1,0 +1,24 @@
+id: james-faether
+type: character
+name: James Faether
+universe: asarya
+summary: Con trai vua Taira, người đã thề phụng sự Đức Chúa cả đời và phong ấn cơ thể gốc của Sein; sống gần như bất tử từ trước 600 trước Năm 1 đến thời Merlin.
+tags: [Gia tộc Faether, Chưa chốt]
+facts:
+  Gia tộc: Faether
+  Thời đại: Từ trước khoảng 600 trước Năm 1 đến thời Merlin
+  Trạng thái: Có phần chưa chốt
+related: [taira-faether, harvey-faether, arthur, phong-an-sein]
+sections:
+  - title: Tiểu sử
+    body: |
+      James là con trai của [[taira-faether]] và là anh của [[harvey-faether]]. Ông thề dành cả cuộc đời phụng sự Đức Chúa và là người thực hiện [[phong-an-sein]].
+
+      James vẫn còn sống vào thời của [[merlin-azure]], nghĩa là sống từ trước khoảng 600 trước Năm 1 đến nay, gần như bất tử.
+  - title: Quan hệ
+    body: |
+      [[arthur]] là pháp sư và học trò của James.
+  - title: Hướng phát triển (chưa chốt)
+    body: |
+      - Cơ chế khiến James sống gần như bất tử.
+      - Mức độ James truyền lại kế hoạch, kiến thức hoặc nhiệm vụ cho Arthur liên quan đến việc thay linh hồn [[harold-azure]].

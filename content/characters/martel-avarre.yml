@@ -1,0 +1,16 @@
+id: martel-avarre
+type: character
+name: Martel Avarre
+universe: asarya
+summary: Cha của Edwin Karrel, thuộc nhà Avarre; không phải Martel Karrel.
+tags: [Gia tộc Avarre]
+facts:
+  Sinh: 481
+  Mất: 511
+  Gia tộc: Avarre
+  Con: Edwin Karrel
+related: [edwin-karrel, martel-karrel, lionel-avarre]
+sections:
+  - title: Gia đình
+    body: |
+      Martel Avarre là cha của [[edwin-karrel]]. Cần phân biệt ông với [[martel-karrel]], con trưởng của Edwin.

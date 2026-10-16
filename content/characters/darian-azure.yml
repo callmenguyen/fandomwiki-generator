@@ -1,0 +1,34 @@
+id: darian-azure
+type: character
+name: Darian Azure
+universe: asarya
+summary: Lãnh chúa tối cao Azureknight từ năm 581, chính trị gia xuất sắc và cha của sáu người con gồm Rickard, Ricktor, Harold, Seraphine và Merlin.
+tags: [Gia tộc Azure, Lãnh chúa]
+facts:
+  Sinh: 549
+  Mất: 620 (71 tuổi)
+  Chức vị: Lãnh chúa tối cao Azureknight (từ 581)
+  Gia tộc: Azure
+related: [rickard-azure-566, ricktor-azure, elarina-azure, harold-azure, seraphine-azure, merlin-azure, garred-azure, edwin-karrel, dennis-frankia, florian-youmitte, lat-do-florian]
+sections:
+  - title: Tiểu sử
+    body: |
+      Darian là con trai của [[rickard-azure-531]]. Từ cái chết của cha năm 566, ông nuôi ý định trả thù [[florian-youmitte]]. Năm 581, ông giúp [[dennis-frankia]] lật đổ Florian ([[lat-do-florian]]) và trở thành lãnh chúa tối cao Azureknight.
+
+      Ông tôn trọng [[edwin-karrel]] và tiếp tục các chính sách của Edwin. Darian từ chối chức tể tướng khi [[katherina-karrel]] đề nghị, khiến vị trí này về tay [[rickard-azure-566]].
+  - title: Tính cách
+    body: |
+      Darian là nhà chính trị rất giỏi nhưng không kiểm soát được mọi thứ; ông có những ưu tiên riêng và giới hạn trong cách xử lý gia đình. Ông yêu quý [[ricktor-azure]] hơn về tình cảm, nhưng vẫn xem Rickard là người phù hợp nhất để kế thừa quyền lực.
+  - title: Sáu người con
+    body: |
+      1. [[rickard-azure-566]] (566–605)
+      2. [[ricktor-azure]] (571–589)
+      3. [[elarina-azure]] (573)
+      4. [[harold-azure]] (584)
+      5. [[seraphine-azure]] (589)
+      6. [[merlin-azure]] (592)
+
+      Em trai ông là [[garred-azure]].
+  - title: Hướng phát triển (chưa chốt)
+    body: |
+      Darian mất năm 620; khủng hoảng kế vị Azureknight sau đó có thể bùng phát nhưng chưa được xác định diễn biến. [[andreas-azure]] đã mất năm 619.

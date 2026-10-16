@@ -1,0 +1,14 @@
+id: cedric-azure
+type: character
+name: Cedric Azure
+universe: asarya
+summary: Con trai của Rickard Azure; sau khi cha bị xử trảm năm 605, anh đâm bị thương Edgard Karrel vì nghĩ Edgard đã can thiệp khiến cha chết.
+tags: [Gia tộc Azure]
+facts:
+  Sinh: 589
+  Gia tộc: Azure
+related: [rickard-azure-566, edgard-karrel, andreas-azure, xu-tram-rickard]
+sections:
+  - title: Tiểu sử
+    body: |
+      Cedric là con của [[rickard-azure-566]] và [[helen-lyceria]]. Năm 605, anh và cha là hai người Azure còn lại ở hoàng đô. Khi [[edgard-karrel]] bí mật đưa anh rời hoàng đô sau cái chết của Rickard, Cedric tức giận và dùng kiếm đâm bị thương Edgard ([[xu-tram-rickard]]).

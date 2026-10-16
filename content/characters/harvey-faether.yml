@@ -1,0 +1,14 @@
+id: harvey-faether
+type: character
+name: Harvey Faether
+universe: asarya
+summary: Em trai James Faether, được xem là thánh kỵ sĩ đầu tiên.
+tags: [Gia tộc Faether, Thánh kỵ sĩ]
+facts:
+  Gia tộc: Faether
+  Vai trò: Thánh kỵ sĩ đầu tiên
+related: [james-faether, taira-faether]
+sections:
+  - title: Vai trò
+    body: |
+      Harvey là em trai của [[james-faether]] và được xem là thánh kỵ sĩ đầu tiên.

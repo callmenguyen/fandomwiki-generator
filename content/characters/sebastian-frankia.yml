@@ -1,0 +1,16 @@
+id: sebastian-frankia
+type: character
+name: Sebastian Frankia
+universe: asarya
+summary: Con trưởng của hoàng đế Dennis, chồng của Katherina Karrel và cha của Henry, Serena và Martin Frankia; mất năm 598.
+tags: [Gia tộc Frankia]
+facts:
+  Sinh: 565
+  Mất: 598
+  Gia tộc: Frankia
+  Vợ: Katherina Karrel
+related: [dennis-frankia, katherina-karrel, henry-frankia, serena-frankia, martin-frankia, leopold-frankia]
+sections:
+  - title: Tiểu sử
+    body: |
+      Sebastian là con trưởng của [[dennis-frankia]] và cưới [[katherina-karrel]]. Sau cái chết của ông năm 598, dã tâm của em trai [[leopold-frankia]] ngày càng lớn.

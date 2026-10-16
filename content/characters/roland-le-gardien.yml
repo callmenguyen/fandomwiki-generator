@@ -1,0 +1,14 @@
+id: roland-le-gardien
+type: character
+name: Roland Le Gardien
+universe: asarya
+summary: Chủ gia tộc Le Gardien ở Dragonia, cha của năm người con gái gồm Emmaelle, Jennielle, Levielle, Rachelle và Isabelle.
+tags: [Gia tộc Le Gardien]
+facts:
+  Gia tộc: Le Gardien
+  Lãnh địa: Dragonia
+related: [emmaelle-le-gardien, jennielle-le-gardien, levielle-le-gardien, rachelle-le-gardien, isabelle-le-gardien]
+sections:
+  - title: Gia đình
+    body: |
+      Roland có năm người con gái: [[emmaelle-le-gardien]], [[jennielle-le-gardien]], [[levielle-le-gardien]], [[rachelle-le-gardien]] và [[isabelle-le-gardien]].

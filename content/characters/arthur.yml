@@ -1,0 +1,21 @@
+id: arthur
+type: character
+name: Arthur
+universe: asarya
+summary: Pháp sư, học trò của James Faether, người thực hiện nghi thức hồi sinh Harold Azure năm 603.
+tags: [Pháp sư, Chưa chốt]
+facts:
+  Nghề nghiệp: Pháp sư
+  Sinh: Sau năm 121, trước năm 200
+  Thầy: James Faether
+  Trạng thái: Có phần chưa chốt
+related: [james-faether, harold-azure, merlin-azure, harold-hoi-sinh]
+sections:
+  - title: Tiểu sử
+    body: |
+      Arthur sinh sau cuộc diệt chủng Merseide (khoảng năm 121) và trước năm 200; pháp sư thường sống rất lâu. Ông là học trò của [[james-faether]].
+
+      Năm 603, [[merlin-azure]] và Rachelle tìm đến ông để hồi sinh [[harold-azure]] ([[harold-hoi-sinh]]).
+  - title: Hướng phát triển (chưa chốt)
+    body: |
+      Theo hướng đang phát triển, Arthur không đưa linh hồn Harold trở lại mà thay nó bằng một mảnh linh hồn Sein. Chưa quyết định Arthur biết rõ hay chỉ biết một phần mục đích của nghi thức, và ông là người kế thừa nhiệm vụ của James đến mức nào.

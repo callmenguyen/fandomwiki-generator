@@ -1,0 +1,25 @@
+id: merlin-azure
+type: character
+name: Merlin Azure
+universe: asarya
+summary: Nhân vật chính của tuyến thần thoại, mang cơ thể Merlin Azure nhưng linh hồn là một trong bảy mảnh linh hồn Sein; giết vua Henry năm 605 và bị Caster II phản bội.
+tags: [Nhân vật chính, Gia tộc Azure, Chưa chốt]
+facts:
+  Sinh: 592
+  Tử nạn lần đầu: 596
+  Gia tộc: Azure
+  Linh hồn: Một trong bảy mảnh linh hồn Sein
+  Trạng thái: Có phần chưa chốt
+related: [darian-azure, seraphine-azure, caster-karrel, caster-ii-karrel, ronald-yormont, florence-yormont, henry-frankia, merlin-tu-nan, henry-bi-sat-hai]
+sections:
+  - title: Bản chất
+    body: |
+      Merlin Azure nguyên bản sinh năm 592 và chết do tai nạn ngã từ vách đá năm 596. Đức Chúa đưa một phần bảy linh hồn của Sein vào cơ thể đó ([[merlin-tu-nan]]). Vì vậy, cơ thể là Merlin Azure nhưng linh hồn bên trong là một phần linh hồn Sein; ban đầu cậu không có ký ức về cuộc đời Sein.
+  - title: Sứ mệnh
+    body: |
+      Merlin có hai nhiệm vụ: thu dọn các bào tử Attila cùng những sinh vật chúng tạo ra, và tìm thu hồi các mảnh linh hồn còn lại của Sein. Cuối cùng, cậu phải đối diện với cơ thể gốc của Sein đang bị phong ấn ([[phong-an-sein]]), vừa có thể phục hồi người Merseide vừa có nguy cơ giải phóng Attila.
+  - title: Tuyến chính trị
+    body: |
+      Merlin từng ngưỡng mộ [[caster-karrel]]. Năm 605, ở tuổi 13, cậu đột nhập hoàng cung giải cứu chị gái [[seraphine-azure]], bị bắt rồi được [[florence-yormont]] cứu và cùng cô giết vua [[henry-frankia]] ([[henry-bi-sat-hai]]). Hậu quả là anh trai cậu, [[rickard-azure-566]], bị xử trảm ([[xu-tram-rickard]]).
+
+      Năm 613 Merlin phục vụ [[ronald-yormont]] và ca ngợi Caster như hình mẫu hoàng đế lý tưởng, vô tình khơi dậy sự ghen tị của Ronald. Về sau Merlin hỗ trợ [[caster-ii-karrel]] lên nắm quyền nhưng bị Caster II phản bội.

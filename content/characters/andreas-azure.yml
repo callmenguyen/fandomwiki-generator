@@ -1,0 +1,19 @@
+id: andreas-azure
+type: character
+name: Andreas Azure
+universe: asarya
+summary: Con trai cả của Rickard Azure và Helen Lyceria, mất năm 619 khi nguyên nhân chưa được xác định.
+tags: [Gia tộc Azure, Chưa chốt]
+facts:
+  Sinh: 587
+  Mất: 619
+  Gia tộc: Azure
+  Trạng thái: Nguyên nhân cái chết chưa chốt
+related: [rickard-azure-566, helen-lyceria, cedric-azure, darian-azure]
+sections:
+  - title: Tiểu sử
+    body: |
+      Andreas là con của [[rickard-azure-566]] và [[helen-lyceria]], anh của [[cedric-azure]]. Trong thứ bậc trí tuệ chính trị, anh đứng ngang hoặc trên [[caster-karrel]].
+  - title: Hướng phát triển (chưa chốt)
+    body: |
+      Nguyên nhân cái chết năm 619 chưa được xác định.

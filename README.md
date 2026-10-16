@@ -49,20 +49,93 @@ Mở <http://127.0.0.1:4173>. Preview tự build khi khởi động; sau khi s�
 
 | Loại bài | Số lượng | Đường dẫn HTML |
 | --- | --- | --- |
-| Vũ trụ | 2 | <code>universes/</code> |
+| Vũ trụ | 3 | <code>universes/</code> |
 | Bộ truyện | 2 | <code>series/</code> |
-| Nhân vật | 2 | <code>characters/</code> |
-| Sự kiện | 1 | <code>events/</code> |
+| Nhân vật | 55 | <code>characters/</code> |
+| Sự kiện | 20 | <code>events/</code> |
 
 | Bài viết | Loại | File YAML |
 | --- | --- | --- |
+| Thảm họa Eden | Sự kiện | [content/events/tham-hoa-eden.yml](content/events/tham-hoa-eden.yml) |
+| Andreas Azure | Nhân vật | [content/characters/andreas-azure.yml](content/characters/andreas-azure.yml) |
+| Arthur | Nhân vật | [content/characters/arthur.yml](content/characters/arthur.yml) |
+| Caster II Karrel | Nhân vật | [content/characters/caster-ii-karrel.yml](content/characters/caster-ii-karrel.yml) |
+| Caster Karrel | Nhân vật | [content/characters/caster-karrel.yml](content/characters/caster-karrel.yml) |
+| Cedric Azure | Nhân vật | [content/characters/cedric-azure.yml](content/characters/cedric-azure.yml) |
+| Darian Azure | Nhân vật | [content/characters/darian-azure.yml](content/characters/darian-azure.yml) |
+| Darion Azure | Nhân vật | [content/characters/darion-azure.yml](content/characters/darion-azure.yml) |
+| Dennis Frankia | Nhân vật | [content/characters/dennis-frankia.yml](content/characters/dennis-frankia.yml) |
+| Doran | Nhân vật | [content/characters/doran.yml](content/characters/doran.yml) |
+| Edgard Karrel | Nhân vật | [content/characters/edgard-karrel.yml](content/characters/edgard-karrel.yml) |
+| Edmin Karrel | Nhân vật | [content/characters/edmin-karrel.yml](content/characters/edmin-karrel.yml) |
+| Edward Karrel | Nhân vật | [content/characters/edward-karrel.yml](content/characters/edward-karrel.yml) |
+| Edwin Karrel | Nhân vật | [content/characters/edwin-karrel.yml](content/characters/edwin-karrel.yml) |
+| Elarina Azure | Nhân vật | [content/characters/elarina-azure.yml](content/characters/elarina-azure.yml) |
+| Emmaelle Le Gardien | Nhân vật | [content/characters/emmaelle-le-gardien.yml](content/characters/emmaelle-le-gardien.yml) |
+| Filippe Youmitte | Nhân vật | [content/characters/filippe-youmitte.yml](content/characters/filippe-youmitte.yml) |
+| Florence Yormont | Nhân vật | [content/characters/florence-yormont.yml](content/characters/florence-yormont.yml) |
+| Florian Youmitte | Nhân vật | [content/characters/florian-youmitte.yml](content/characters/florian-youmitte.yml) |
+| Garred Azure | Nhân vật | [content/characters/garred-azure.yml](content/characters/garred-azure.yml) |
+| Harold Azure | Nhân vật | [content/characters/harold-azure.yml](content/characters/harold-azure.yml) |
+| Harvey Faether | Nhân vật | [content/characters/harvey-faether.yml](content/characters/harvey-faether.yml) |
+| Helen Lyceria | Nhân vật | [content/characters/helen-lyceria.yml](content/characters/helen-lyceria.yml) |
+| Henry Frankia | Nhân vật | [content/characters/henry-frankia.yml](content/characters/henry-frankia.yml) |
+| Isabelle Le Gardien | Nhân vật | [content/characters/isabelle-le-gardien.yml](content/characters/isabelle-le-gardien.yml) |
+| James Crimson | Nhân vật | [content/characters/james-crimson.yml](content/characters/james-crimson.yml) |
+| James Faether | Nhân vật | [content/characters/james-faether.yml](content/characters/james-faether.yml) |
+| Jennielle Le Gardien | Nhân vật | [content/characters/jennielle-le-gardien.yml](content/characters/jennielle-le-gardien.yml) |
+| Julien | Nhân vật | [content/characters/julien.yml](content/characters/julien.yml) |
+| Katherina Karrel | Nhân vật | [content/characters/katherina-karrel.yml](content/characters/katherina-karrel.yml) |
+| Leopold Frankia | Nhân vật | [content/characters/leopold-frankia.yml](content/characters/leopold-frankia.yml) |
+| Levielle Le Gardien | Nhân vật | [content/characters/levielle-le-gardien.yml](content/characters/levielle-le-gardien.yml) |
+| Lionel Avarre | Nhân vật | [content/characters/lionel-avarre.yml](content/characters/lionel-avarre.yml) |
+| Marielle Karrel | Nhân vật | [content/characters/marielle-karrel.yml](content/characters/marielle-karrel.yml) |
+| Martel Avarre | Nhân vật | [content/characters/martel-avarre.yml](content/characters/martel-avarre.yml) |
+| Martel Karrel | Nhân vật | [content/characters/martel-karrel.yml](content/characters/martel-karrel.yml) |
+| Martin Frankia | Nhân vật | [content/characters/martin-frankia.yml](content/characters/martin-frankia.yml) |
+| Martin Karrel (sinh 538) | Nhân vật | [content/characters/martin-karrel-538.yml](content/characters/martin-karrel-538.yml) |
+| Martin Karrel (sinh 583) | Nhân vật | [content/characters/martin-karrel-583.yml](content/characters/martin-karrel-583.yml) |
+| Martin Karrel (sinh 596) | Nhân vật | [content/characters/martin-karrel-596.yml](content/characters/martin-karrel-596.yml) |
+| Merlin Azure | Nhân vật | [content/characters/merlin-azure.yml](content/characters/merlin-azure.yml) |
+| Nemo | Nhân vật | [content/characters/nemo.yml](content/characters/nemo.yml) |
+| Rachelle Karrel | Nhân vật | [content/characters/rachelle-karrel.yml](content/characters/rachelle-karrel.yml) |
+| Rachelle Le Gardien | Nhân vật | [content/characters/rachelle-le-gardien.yml](content/characters/rachelle-le-gardien.yml) |
+| Rickard Azure (sinh 531) | Nhân vật | [content/characters/rickard-azure-531.yml](content/characters/rickard-azure-531.yml) |
+| Rickard Azure (sinh 566) | Nhân vật | [content/characters/rickard-azure-566.yml](content/characters/rickard-azure-566.yml) |
+| Ricktor Azure | Nhân vật | [content/characters/ricktor-azure.yml](content/characters/ricktor-azure.yml) |
+| Roland Le Gardien | Nhân vật | [content/characters/roland-le-gardien.yml](content/characters/roland-le-gardien.yml) |
+| Ronald Yormont | Nhân vật | [content/characters/ronald-yormont.yml](content/characters/ronald-yormont.yml) |
+| Sebastian Frankia | Nhân vật | [content/characters/sebastian-frankia.yml](content/characters/sebastian-frankia.yml) |
+| Seraphine Azure | Nhân vật | [content/characters/seraphine-azure.yml](content/characters/seraphine-azure.yml) |
+| Serena Frankia | Nhân vật | [content/characters/serena-frankia.yml](content/characters/serena-frankia.yml) |
+| Taira Faether | Nhân vật | [content/characters/taira-faether.yml](content/characters/taira-faether.yml) |
+| Theresa Frankia | Nhân vật | [content/characters/theresa-frankia.yml](content/characters/theresa-frankia.yml) |
 | Vũ trụ Aurora | Vũ trụ | [content/universes/aurora.yml](content/universes/aurora.yml) |
 | Người Giữ Ánh Sáng | Bộ truyện | [content/series/nguoi-giu-anh-sang.yml](content/series/nguoi-giu-anh-sang.yml) |
 | Linh An | Nhân vật | [content/characters/linh-an.yml](content/characters/linh-an.yml) |
 | Minh Kha | Nhân vật | [content/characters/minh-kha.yml](content/characters/minh-kha.yml) |
 | Vũ trụ Hải Triều | Vũ trụ | [content/universes/hai-trieu.yml](content/universes/hai-trieu.yml) |
 | Bản Đồ Sao | Bộ truyện | [content/series/ban-do-sao.yml](content/series/ban-do-sao.yml) |
+| Vũ trụ Asarya | Vũ trụ | [content/universes/asarya.yml](content/universes/asarya.yml) |
 | Đêm Pha Lê Vỡ | Sự kiện | [content/events/dem-pha-le-vo.yml](content/events/dem-pha-le-vo.yml) |
+| Cuộc diệt chủng Merseide | Sự kiện | [content/events/diet-chung-merseide.yml](content/events/diet-chung-merseide.yml) |
+| Phong ấn cơ thể gốc của Sein | Sự kiện | [content/events/phong-an-sein.yml](content/events/phong-an-sein.yml) |
+| Florian cướp ngôi Filippe | Sự kiện | [content/events/florian-cuop-ngoi.yml](content/events/florian-cuop-ngoi.yml) |
+| Nội chiến kế vị nhà Karrel | Sự kiện | [content/events/noi-chien-ke-vi-karrel.yml](content/events/noi-chien-ke-vi-karrel.yml) |
+| Edgard mất tay phải | Sự kiện | [content/events/attila-tan-cong-edgard.yml](content/events/attila-tan-cong-edgard.yml) |
+| Lật đổ Florian Youmitte | Sự kiện | [content/events/lat-do-florian.yml](content/events/lat-do-florian.yml) |
+| Giải đấu giành Isabelle lần thứ nhất | Sự kiện | [content/events/giai-dau-dau-tien.yml](content/events/giai-dau-dau-tien.yml) |
+| Cái chết của Ricktor Azure | Sự kiện | [content/events/cai-chet-ricktor-azure.yml](content/events/cai-chet-ricktor-azure.yml) |
+| Giải đấu thứ hai và hôn nhân Edgard–Isabelle | Sự kiện | [content/events/giai-dau-thu-hai.yml](content/events/giai-dau-thu-hai.yml) |
+| Merlin tử nạn và mảnh linh hồn Sein | Sự kiện | [content/events/merlin-tu-nan.yml](content/events/merlin-tu-nan.yml) |
+| Harold bị giết và được hồi sinh | Sự kiện | [content/events/harold-hoi-sinh.yml](content/events/harold-hoi-sinh.yml) |
+| Cái chết của Isabelle Le Gardien | Sự kiện | [content/events/cai-chet-isabelle.yml](content/events/cai-chet-isabelle.yml) |
+| Henry Frankia bị giết | Sự kiện | [content/events/henry-bi-sat-hai.yml](content/events/henry-bi-sat-hai.yml) |
+| Rickard Azure bị xử trảm | Sự kiện | [content/events/xu-tram-rickard.yml](content/events/xu-tram-rickard.yml) |
+| Chiến tranh chống Leopold | Sự kiện | [content/events/chien-tranh-chong-leopold.yml](content/events/chien-tranh-chong-leopold.yml) |
+| Edgard trở thành giáo hoàng | Sự kiện | [content/events/edgard-tro-thanh-giao-hoang.yml](content/events/edgard-tro-thanh-giao-hoang.yml) |
+| Trận tử chiến giữa Caster và Leopold | Sự kiện | [content/events/tran-tu-chien-612.yml](content/events/tran-tu-chien-612.yml) |
+| Cái chết của Caster Karrel | Sự kiện | [content/events/cai-chet-caster.yml](content/events/cai-chet-caster.yml) |
 
 Các bảng trên phản ánh nội dung YAML hiện tại, được cập nhật khi CI sinh lại README.
 

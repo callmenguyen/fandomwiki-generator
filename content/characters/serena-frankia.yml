@@ -1,0 +1,13 @@
+id: serena-frankia
+type: character
+name: Serena Frankia
+universe: asarya
+summary: Con của Sebastian Frankia và Katherina Karrel, em của Henry; cùng Caster và Martin Frankia lánh nạn đến Azureknight năm 605.
+tags: [Gia tộc Frankia]
+facts:
+  Gia tộc: Frankia
+related: [sebastian-frankia, katherina-karrel, henry-frankia, martin-frankia, caster-karrel, chien-tranh-chong-leopold]
+sections:
+  - title: Tiểu sử
+    body: |
+      Serena là con của [[sebastian-frankia]] và [[katherina-karrel]]. Trong [[chien-tranh-chong-leopold]], nàng rời hoàng đô cùng [[caster-karrel]] và [[martin-frankia]] để đến Azureknight.

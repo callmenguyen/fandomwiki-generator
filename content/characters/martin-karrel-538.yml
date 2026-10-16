@@ -1,0 +1,16 @@
+id: martin-karrel-538
+type: character
+name: Martin Karrel (sinh 538)
+universe: asarya
+aliases: [Martin Karrel]
+summary: Vị tướng nổi tiếng, con của Edwin, cha của Edward, Katherina và Edgard Karrel, ông nội của Caster; mất năm 581.
+tags: [Gia tộc Karrel, Tướng quân]
+facts:
+  Sinh: 538
+  Mất: 581
+  Gia tộc: Karrel
+related: [edwin-karrel, edward-karrel, katherina-karrel, edgard-karrel, caster-karrel, nemo, doran]
+sections:
+  - title: Tiểu sử
+    body: |
+      Martin là con của [[edwin-karrel]], cha của [[edward-karrel]], [[katherina-karrel]] và [[edgard-karrel]]. Ông đóng vai trò quan trọng trong truyền thống quân sự nhà Karrel; [[doran]] từng là môn đồ của ông. Ông là bạn của [[nemo]]. Ông mất năm 581.

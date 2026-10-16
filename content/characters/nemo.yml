@@ -1,0 +1,13 @@
+id: nemo
+type: character
+name: Nemo
+universe: asarya
+summary: Học giả huyền thoại, Đại học sĩ và tể tướng không chính thức dưới thời Dennis, thầy của Edgard, Rachelle Le Gardien và Caster.
+tags: [Học giả]
+facts:
+  Nghề nghiệp: Đại học sĩ
+related: [martin-karrel-538, dennis-frankia, edgard-karrel, rachelle-le-gardien, caster-karrel]
+sections:
+  - title: Tiểu sử
+    body: |
+      Nemo là bạn của [[martin-karrel-538]], có ảnh hưởng lớn đến triều đình của [[dennis-frankia]] dù không giữ chức tể tướng chính thức. Ông dạy [[edgard-karrel]] và [[rachelle-le-gardien]], rồi đào tạo [[caster-karrel]], người mà ông âm thầm tin có thể trở thành hoàng đế. Ông tiếc nuối khi Edgard chuyển hướng tài năng sang chính trị. Trong thứ bậc trí tuệ chính trị, ông đứng ngay sau [[edwin-karrel]].

@@ -1,0 +1,16 @@
+id: martin-karrel-583
+type: character
+name: Martin Karrel (sinh 583)
+universe: asarya
+aliases: [Martin Karrel]
+summary: Con trai của Edward Karrel, đã kết hôn; cần phân biệt với các Martin khác.
+tags: [Gia tộc Karrel]
+facts:
+  Sinh: 583
+  Gia tộc: Karrel
+  Cha: Edward Karrel
+related: [edward-karrel, martin-karrel-538, martin-karrel-596, martin-frankia]
+sections:
+  - title: Ghi chú
+    body: |
+      Martin sinh năm 583 là con của [[edward-karrel]]. Không phải [[martin-karrel-538]], [[martin-karrel-596]] hay [[martin-frankia]].

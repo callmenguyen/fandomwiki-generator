@@ -1,0 +1,13 @@
+id: emmaelle-le-gardien
+type: character
+name: Emmaelle Le Gardien
+universe: asarya
+summary: Con gái Roland Le Gardien, lãng mạn, bỏ trốn cùng một người hầu thay vì kết hôn với Rickard Azure.
+tags: [Gia tộc Le Gardien]
+facts:
+  Gia tộc: Le Gardien
+related: [roland-le-gardien, rickard-azure-566, jennielle-le-gardien]
+sections:
+  - title: Tiểu sử
+    body: |
+      Năm 580, Emmaelle được sắp xếp kết hôn với [[rickard-azure-566]] nhưng bỏ trốn để sống cùng một người hầu. Liên hôn thất bại, và [[jennielle-le-gardien]] kết hôn với [[garred-azure]] để duy trì liên minh.

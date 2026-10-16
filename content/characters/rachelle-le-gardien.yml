@@ -1,0 +1,15 @@
+id: rachelle-le-gardien
+type: character
+name: Rachelle Le Gardien
+universe: asarya
+summary: Chị song sinh của Isabelle, yêu sách vở, học trò của Nemo, mất năm 585; không phải Rachelle Karrel.
+tags: [Gia tộc Le Gardien]
+facts:
+  Sinh: 571
+  Mất: 585
+  Gia tộc: Le Gardien
+related: [isabelle-le-gardien, nemo, rachelle-karrel]
+sections:
+  - title: Tiểu sử
+    body: |
+      Rachelle là chị song sinh của [[isabelle-le-gardien]] và từng học với [[nemo]]. Cần phân biệt nàng với [[rachelle-karrel]], con gái của Isabelle.

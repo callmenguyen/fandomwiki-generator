@@ -1,0 +1,21 @@
+id: seraphine-azure
+type: character
+name: Seraphine Azure
+universe: asarya
+summary: Con gái của Darian, chị gái Merlin, bị vua Henry cưỡng bức và giam giữ, được Merlin giải cứu; sau đó kết hôn với Caster Karrel năm 613 và là mẹ Caster II.
+tags: [Gia tộc Azure]
+facts:
+  Sinh: 589
+  Gia tộc: Azure
+  Chồng: Caster Karrel
+  Con: Caster II Karrel
+related: [darian-azure, merlin-azure, caster-karrel, caster-ii-karrel, henry-frankia, henry-bi-sat-hai]
+sections:
+  - title: Tiểu sử
+    body: |
+      Seraphine ngưỡng mộ [[caster-karrel]] trước khi gặp anh năm 603. Vì sắc đẹp của nàng, vua [[henry-frankia]] cưỡng bức và giam giữ nàng. [[merlin-azure]] giải cứu nàng trong [[henry-bi-sat-hai]] và đưa nàng về vùng Nordic.
+
+      Năm 613 nàng kết hôn với Caster và đang mang thai khi anh qua đời; con trai là [[caster-ii-karrel]].
+  - title: Hướng phát triển (chưa chốt)
+    body: |
+      Nơi ở của Seraphine từ 605 đến lúc gặp lại Caster, trong bối cảnh Nordic là vùng đóng quân của [[ronald-yormont]], chưa được xác định.

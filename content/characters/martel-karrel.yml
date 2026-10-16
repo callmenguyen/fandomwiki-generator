@@ -1,0 +1,16 @@
+id: martel-karrel
+type: character
+name: Martel Karrel
+universe: asarya
+summary: Con trưởng của Edwin Karrel, từng được chọn làm người kế vị nhưng mất năm 555, trước cha.
+tags: [Gia tộc Karrel]
+facts:
+  Sinh: 519
+  Mất: 555
+  Ông nội: Martel Avarre
+  Gia tộc: Karrel
+related: [edwin-karrel, martel-avarre, martin-karrel-538]
+sections:
+  - title: Tiểu sử
+    body: |
+      Martel là con trưởng của [[edwin-karrel]] và được cha chọn làm người kế vị, nhưng mất trước Edwin. Cần phân biệt ông với [[martel-avarre]].

@@ -1,0 +1,14 @@
+id: helen-lyceria
+type: character
+name: Helen Lyceria
+universe: asarya
+summary: Vợ của Rickard Azure, thuộc gia tộc Lyceria có thế lực lớn, mẹ của Andreas và Cedric.
+tags: [Gia tộc Lyceria]
+facts:
+  Gia tộc: Lyceria
+  Chồng: Rickard Azure
+related: [rickard-azure-566, andreas-azure, cedric-azure]
+sections:
+  - title: Tiểu sử
+    body: |
+      Helen kết hôn với [[rickard-azure-566]] và sinh [[andreas-azure]], [[cedric-azure]]. Vai trò của gia tộc Lyceria trong các xung đột chính trị chưa được phát triển đầy đủ.

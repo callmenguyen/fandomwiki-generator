@@ -1,0 +1,15 @@
+id: martin-karrel-596
+type: character
+name: Martin Karrel (sinh 596)
+universe: asarya
+aliases: [Martin Karrel]
+summary: Con trai của Edgard Karrel và Isabelle Le Gardien, sinh năm 596; không phải Martin Frankia.
+tags: [Gia tộc Karrel]
+facts:
+  Sinh: 596
+  Gia tộc: Karrel
+related: [edgard-karrel, isabelle-le-gardien, martin-frankia, martin-karrel-538]
+sections:
+  - title: Gia đình
+    body: |
+      Martin là con của [[edgard-karrel]] và [[isabelle-le-gardien]]. Cần phân biệt với [[martin-frankia]] và [[martin-karrel-538]].

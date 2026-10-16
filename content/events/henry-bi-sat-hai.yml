@@ -1,0 +1,15 @@
+id: henry-bi-sat-hai
+type: event
+name: Henry Frankia bị giết
+universe: asarya
+participants: [merlin-azure, florence-yormont, henry-frankia, seraphine-azure]
+date: Năm 605
+order: 605
+summary: Merlin đột nhập hoàng cung để cứu chị gái Seraphine, được Florence Yormont cứu khỏi ngục và cùng cô giết vua Henry.
+sections:
+  - title: Diễn biến
+    body: |
+      [[henry-frankia]], dù đã có vợ, cưỡng bức và giam giữ [[seraphine-azure]]. [[merlin-azure]], 13 tuổi, đột nhập hoàng cung để cứu chị nhưng bị bắt giam. [[florence-yormont]] giúp cậu thoát ngục, rồi hai người giết Henry và đưa Seraphine chạy về Nordic, nơi [[ronald-yormont]] đóng quân.
+  - title: Hệ quả
+    body: |
+      [[leopold-frankia]] lên ngôi với sự hỗ trợ của Giáo hội Avarre và ra lệnh [[xu-tram-rickard]].

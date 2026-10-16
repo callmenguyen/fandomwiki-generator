@@ -1,0 +1,14 @@
+id: edmin-karrel
+type: character
+name: Edmin Karrel
+universe: asarya
+summary: Con của Edgard Karrel và Isabelle Le Gardien, sinh ngày 19/11/592, cùng ngày với Rachelle Karrel.
+tags: [Gia tộc Karrel]
+facts:
+  Sinh: 19/11/592
+  Gia tộc: Karrel
+related: [edgard-karrel, isabelle-le-gardien, rachelle-karrel]
+sections:
+  - title: Gia đình
+    body: |
+      Edmin là con của [[edgard-karrel]] và [[isabelle-le-gardien]], sinh cùng ngày với [[rachelle-karrel]].

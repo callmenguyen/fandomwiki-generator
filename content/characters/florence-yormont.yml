@@ -1,0 +1,14 @@
+id: florence-yormont
+type: character
+name: Florence Yormont
+universe: asarya
+summary: Em gái Ronald Yormont, cứu Merlin khỏi ngục và cùng cậu giết vua Henry năm 605.
+tags: [Gia tộc Yormont]
+facts:
+  Gia tộc: Yormont
+  Anh trai: Ronald Yormont
+related: [ronald-yormont, merlin-azure, henry-frankia, seraphine-azure, henry-bi-sat-hai]
+sections:
+  - title: Tiểu sử
+    body: |
+      Florence là em gái của [[ronald-yormont]]. Khi [[merlin-azure]] bị bắt giam trong hoàng cung, cô giúp cậu thoát ngục, rồi cùng cậu giết [[henry-frankia]] và đưa [[seraphine-azure]] về Nordic ([[henry-bi-sat-hai]]).

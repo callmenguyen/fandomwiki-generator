@@ -1,0 +1,20 @@
+id: diet-chung-merseide
+type: event
+name: Cuộc diệt chủng Merseide
+universe: asarya
+participants: [darion-azure]
+related: [james-faether, tham-hoa-eden]
+date: Khoảng năm 121
+order: 121
+summary: Cuộc thảm sát người Merseide tại Eden do Darion Azure lãnh đạo, nguồn gốc của Attila và là khởi đầu của tuyến thần thoại Asarya.
+facts:
+  Địa điểm: Eden
+sections:
+  - title: Diễn biến
+    body: |
+      [[darion-azure]], người đứng đầu nhà Azure thời xa xưa, lãnh đạo cuộc thảm sát người **Merseide**, dân tộc đã trung thành phụng sự Đức Chúa trong hàng nghìn năm.
+
+      Một cậu bé tên **Sein** sống sót. Nỗi oán hận của cậu trở thành nguồn gốc của thực thể tà ác **Attila**.
+  - title: Hệ quả
+    body: |
+      Cuộc diệt chủng dẫn đến [[phong-an-sein]] và là nguồn gốc của các bào tử Attila, thứ mà [[merlin-azure]] về sau phải thu dọn.

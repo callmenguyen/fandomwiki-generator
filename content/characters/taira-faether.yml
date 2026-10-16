@@ -1,0 +1,14 @@
+id: taira-faether
+type: character
+name: Taira Faether
+universe: asarya
+summary: Vị vua Eden chịu trách nhiệm cho thảm họa Eden, cha của James Faether.
+tags: [Hoàng tộc Eden]
+facts:
+  Gia tộc: Faether
+  Thời đại: Trước khoảng 600 trước Năm 1
+related: [james-faether, harvey-faether, tham-hoa-eden]
+sections:
+  - title: Vai trò
+    body: |
+      Taira là vua Eden vào thời điểm xảy ra [[tham-hoa-eden]]. Con trai ông, [[james-faether]], về sau phụng sự Đức Chúa và phong ấn Sein, tạo nên nghịch lý lịch sử của gia tộc Faether.

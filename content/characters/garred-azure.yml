@@ -1,0 +1,15 @@
+id: garred-azure
+type: character
+name: Garred Azure
+universe: asarya
+summary: Em trai Darian Azure, thiếu năng lực chính trị, thích vàng bạc, đá quý, phụ nữ và rượu, bí mật căm ghét anh trai.
+tags: [Gia tộc Azure]
+facts:
+  Sinh: 565
+  Gia tộc: Azure
+  Vợ: Jennielle Le Gardien
+related: [darian-azure, jennielle-le-gardien]
+sections:
+  - title: Tiểu sử
+    body: |
+      Garred có năng lực quân sự vừa phải nhưng không phải chiến lược gia xuất sắc. Ông bí mật căm ghét [[darian-azure]] nhưng bên ngoài vẫn phục tùng. Ông kết hôn với [[jennielle-le-gardien]] để duy trì liên minh Azure–Le Gardien sau khi [[emmaelle-le-gardien]] bỏ trốn; hai người không có con.

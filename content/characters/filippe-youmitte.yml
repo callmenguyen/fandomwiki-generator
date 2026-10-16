@@ -1,0 +1,13 @@
+id: filippe-youmitte
+type: character
+name: Filippe Youmitte
+universe: asarya
+summary: Chú của Florian Youmitte, bị cháu cướp ngôi năm 566.
+tags: [Gia tộc Youmitte]
+facts:
+  Gia tộc: Youmitte
+related: [florian-youmitte, florian-cuop-ngoi]
+sections:
+  - title: Tiểu sử
+    body: |
+      Filippe là người giữ ngôi Youmitte cho đến khi bị cháu là [[florian-youmitte]] cướp ngôi năm 566 ([[florian-cuop-ngoi]]).

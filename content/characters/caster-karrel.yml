@@ -1,0 +1,23 @@
+id: caster-karrel
+type: character
+name: Caster Karrel
+universe: asarya
+aliases: [Caster I]
+summary: Con trai Edgard và Theresa Frankia, thiên tài toàn diện về quân sự, chính trị, học thuật và kiếm thuật; kháng chiến chống Leopold và chết anh dũng năm 613.
+tags: [Gia tộc Karrel, Tướng quân]
+facts:
+  Sinh: 587
+  Mất: 613
+  Gia tộc: Karrel
+  Vợ: Seraphine Azure
+  Con: Caster II Karrel
+related: [edgard-karrel, theresa-frankia, nemo, doran, seraphine-azure, caster-ii-karrel, martin-frankia, leopold-frankia, lionel-avarre, ronald-yormont, merlin-azure, chien-tranh-chong-leopold, tran-tu-chien-612, cai-chet-caster]
+sections:
+  - title: Tiểu sử
+    body: |
+      Caster được đào tạo bởi [[nemo]] và tướng [[doran]], người từng là môn đồ của [[martin-karrel-538]]; [[edgard-karrel]] cũng đóng vai trò quan trọng. Nemo là một trong những người đầu tiên âm thầm tin Caster có thể trở thành hoàng đế. Mẹ anh, [[theresa-frankia]], mất khi sinh anh.
+
+      Là tướng kỵ binh, anh thường dùng chiến thuật mũi nêm xuyên thẳng vào đội hình địch. Từ 605 anh cùng [[martin-frankia]] chống [[leopold-frankia]] ([[chien-tranh-chong-leopold]]); đầu năm 612, anh mắc mưu Leopold, bị bắt bài lối đánh quen thuộc, và được [[lionel-avarre]] cứu ([[tran-tu-chien-612]]).
+  - title: Cái chết
+    body: |
+      Năm 613 anh kết hôn với [[seraphine-azure]]. Sau chiến thắng Leopold, Martin Frankia lo sợ ảnh hưởng của anh, phe kháng chiến phản bội anh và tiếp tục chiến tranh với [[ronald-yormont]], dẫn đến cái chết anh dũng của anh ([[cai-chet-caster]]). Seraphine đang mang thai; con trai là [[caster-ii-karrel]].

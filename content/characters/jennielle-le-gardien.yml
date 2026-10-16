@@ -1,0 +1,15 @@
+id: jennielle-le-gardien
+type: character
+name: Jennielle Le Gardien
+universe: asarya
+summary: Con gái Roland Le Gardien, lẳng lơ, kết hôn với Garred Azure để duy trì liên minh giữa hai gia tộc.
+tags: [Gia tộc Le Gardien]
+facts:
+  Sinh: 567
+  Gia tộc: Le Gardien
+  Chồng: Garred Azure
+related: [roland-le-gardien, garred-azure, emmaelle-le-gardien]
+sections:
+  - title: Tiểu sử
+    body: |
+      Jennielle kết hôn với [[garred-azure]] sau khi [[emmaelle-le-gardien]] bỏ trốn. Hai người không có con.

@@ -1,0 +1,16 @@
+id: lionel-avarre
+type: character
+name: Lionel Avarre
+universe: asarya
+summary: Học trò của Edgard Karrel, cứu Edgard năm 605, cùng ông chống Giáo hội và Leopold, trở thành giáo hoàng từ 609 và cứu Caster trong trận tử chiến năm 612.
+tags: [Gia tộc Avarre, Giáo hoàng]
+facts:
+  Gia tộc: Avarre
+  Giáo hoàng: Từ 609
+related: [edgard-karrel, leopold-frankia, caster-karrel, martin-frankia, ronald-yormont, martel-avarre, chien-tranh-chong-leopold, edgard-tro-thanh-giao-hoang, tran-tu-chien-612, cai-chet-caster]
+sections:
+  - title: Tiểu sử
+    body: |
+      Lionel là học trò của [[edgard-karrel]]. Năm 605 ông cứu Edgard sau khi anh bị thương, đưa về Avarre và cùng anh dựng lực lượng chống Giáo hội đương thời và [[leopold-frankia]]. Năm 607 họ đánh bại giáo hoàng Richard II ([[edgard-tro-thanh-giao-hoang]]).
+
+      Sau cái chết của Edgard năm 609, ông trở thành giáo hoàng và tuyên bố rút khỏi chiến tranh. Đầu năm 612, ông bất ngờ đem quân Avarre đến cứu [[caster-karrel]] và đánh bại Leopold phút chót ([[tran-tu-chien-612]]). Ông vẫn ủng hộ [[martin-frankia]]; phe kháng chiến sau đó tiếp tục chiến tranh với Ronald, dẫn đến [[cai-chet-caster]].

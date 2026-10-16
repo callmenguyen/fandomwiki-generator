@@ -1,0 +1,13 @@
+id: doran
+type: character
+name: Doran
+universe: asarya
+summary: Tướng quân, môn đồ của Martin Karrel và thầy dạy quân sự của Caster Karrel.
+tags: [Tướng quân]
+facts:
+  Nghề nghiệp: Tướng quân
+related: [martin-karrel-538, caster-karrel]
+sections:
+  - title: Vai trò
+    body: |
+      Doran từng là môn đồ của [[martin-karrel-538]] và cùng [[nemo]] đào tạo [[caster-karrel]].

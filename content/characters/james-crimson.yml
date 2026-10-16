@@ -1,0 +1,15 @@
+id: james-crimson
+type: character
+name: James Crimson
+universe: asarya
+summary: Lãnh chúa tối cao của Westland, chồng của Elarina Azure; không phải James Faether.
+tags: [Gia tộc Crimson, Lãnh chúa]
+facts:
+  Gia tộc: Crimson
+  Chức vị: Lãnh chúa tối cao Westland
+  Vợ: Elarina Azure
+related: [elarina-azure, james-faether]
+sections:
+  - title: Tiểu sử
+    body: |
+      James Crimson kết hôn với [[elarina-azure]]. Cần phân biệt ông với [[james-faether]].

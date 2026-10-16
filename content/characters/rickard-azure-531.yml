@@ -1,0 +1,17 @@
+id: rickard-azure-531
+type: character
+name: Rickard Azure (sinh 531)
+universe: asarya
+aliases: [Rickard Azure đời trước]
+summary: Cha của Darian Azure, mất năm 566; cần phân biệt với Rickard Azure sinh năm 566.
+tags: [Gia tộc Azure]
+facts:
+  Sinh: 531
+  Mất: 566
+  Gia tộc: Azure
+  Con: Darian Azure
+related: [darian-azure, rickard-azure-566, florian-cuop-ngoi]
+sections:
+  - title: Tiểu sử
+    body: |
+      Cái chết của ông năm 566 khiến [[darian-azure]] nuôi ý định trả thù [[florian-youmitte]]. Cháu nội của ông là [[rickard-azure-566]], sinh cùng năm ông mất. Chi tiết nguyên nhân cái chết chưa được xác định.

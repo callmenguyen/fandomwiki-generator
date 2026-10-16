@@ -1,0 +1,16 @@
+id: julien
+type: character
+name: Julien
+universe: asarya
+summary: Con trai Isabelle Le Gardien, công khai là con của Ricktor Azure nhưng thực tế là con của Rickard Azure.
+tags: [Bí mật gia tộc]
+facts:
+  Sinh: 589
+  Nơi sinh: Dragonia
+  Cha danh nghĩa: Ricktor Azure
+  Cha ruột: Rickard Azure
+related: [isabelle-le-gardien, ricktor-azure, rickard-azure-566]
+sections:
+  - title: Tiểu sử
+    body: |
+      Julien sinh năm 589 tại Dragonia, sau khi [[ricktor-azure]] mất và [[isabelle-le-gardien]] rời Azureknight về quê mẹ. Dù được công khai là con của Ricktor, cha ruột của Julien là [[rickard-azure-566]].

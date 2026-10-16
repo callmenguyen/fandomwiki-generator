@@ -1,0 +1,16 @@
+id: theresa-frankia
+type: character
+name: Theresa Frankia
+universe: asarya
+summary: Con gái hoàng đế Dennis, vợ của Edgard Karrel từ 587, mẹ của Caster Karrel, mất vì sinh khó năm 587.
+tags: [Gia tộc Frankia]
+facts:
+  Mất: 587
+  Gia tộc: Frankia
+  Chồng: Edgard Karrel
+  Con: Caster Karrel
+related: [dennis-frankia, edgard-karrel, caster-karrel]
+sections:
+  - title: Tiểu sử
+    body: |
+      Theresa là con của [[dennis-frankia]] và kết hôn với [[edgard-karrel]] năm 587. Nàng mất do sinh khó khi sinh [[caster-karrel]].

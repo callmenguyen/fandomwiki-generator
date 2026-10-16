@@ -1,0 +1,14 @@
+id: levielle-le-gardien
+type: character
+name: Levielle Le Gardien
+universe: asarya
+summary: Con gái Roland Le Gardien, mạnh mẽ, trở thành người cai trị Le Gardien vào năm 590.
+tags: [Gia tộc Le Gardien, Lãnh chúa]
+facts:
+  Gia tộc: Le Gardien
+  Cai trị Le Gardien từ: 590
+related: [roland-le-gardien, isabelle-le-gardien]
+sections:
+  - title: Tiểu sử
+    body: |
+      Levielle là chị của [[isabelle-le-gardien]] và trở thành người cai trị Le Gardien năm 590.

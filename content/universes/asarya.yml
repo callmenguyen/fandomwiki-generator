@@ -1,0 +1,104 @@
+id: asarya
+type: universe
+name: Vũ trụ Asarya
+summary: Thế giới kỳ ảo chính trị nơi các gia tộc lớn tranh quyền dưới một đế quốc trung tâm, trong khi bóng của cuộc diệt chủng Merseide và thực thể tà ác Attila vẫn kéo dài suốt 500 năm.
+tags: [Fantasy, Chính trị, Bi kịch, Chưa chốt]
+facts:
+  Thể loại: Kỳ ảo chính trị
+  Mốc lịch: Năm 1 là năm thành lập đế chế Asarya
+  Trạng thái: Đang phát triển, còn nhiều phần chưa chốt
+order: 7
+sections:
+  - title: Tổng quan
+    body: |
+      **Asarya** được xây dựng trên ba tầng xung đột có thể giao thoa nhưng không thay thế nhau:
+
+      - **Thần thoại và siêu nhiên**: cuộc diệt chủng người Merseide khoảng năm 121, sự ra đời của Attila từ nỗi oán hận của Sein, và kế hoạch dài hạn của Đức Chúa.
+      - **Chính trị và lịch sử**: các gia tộc Azure, Karrel, Frankia, Le Gardien và những thế lực khác tranh giành ảnh hưởng qua đảo chính, hôn nhân chính trị, chiến tranh và khủng hoảng kế vị.
+      - **Bi kịch cá nhân**: tình yêu, tham vọng, lòng trung thành, đố kỵ và những sai lầm riêng, ví dụ cái chết của [[ricktor-azure]] hay sự phản bội [[merlin-azure]] của [[caster-ii-karrel]].
+
+      Không phải mọi sự kiện chính trị bắt nguồn từ thần thoại, và không phải mọi bi kịch đều do định mệnh sắp đặt.
+  - title: Lịch
+    body: |
+      **Năm 1** là năm thành lập đế chế Asarya. Các mốc trước đó được ghi là "trước Năm 1" (ví dụ [[tham-hoa-eden|Thảm họa Eden]] khoảng 600 trước Năm 1). Cuộc diệt chủng Merseide diễn ra khoảng năm 121, tức khoảng 480 năm trước thời điểm câu chuyện chính (năm 603).
+  - title: Thể chế
+    body: |
+      Đế quốc theo mô hình phân quyền ba tầng:
+
+      1. **Hoàng đế** ở trung tâm, thuộc [[dennis-frankia|nhà Frankia]] từ năm 581.
+      2. **Lãnh chúa tối cao** đứng đầu một vùng lớn, ví dụ Azureknight, Westland, Dragonia.
+      3. **Các lãnh chúa nhỏ** thần phục lãnh chúa tối cao.
+
+      Wiki không dùng hệ bậc công, hầu, tử tước kiểu châu Âu. Giai đoạn 569–581, Azureknight không có lãnh chúa tối cao: những người đứng đầu nhà Karrel chỉ là đại lãnh chúa danh nghĩa, không gia tộc nào thần phục họ, và vùng này trải qua một thời kỳ nội loạn đen tối.
+  - title: Địa lý
+    body: |
+      - **Azureknight**: vùng đất rộng lớn ở phía đông đế chế, quê hương của nhà Azure. **Azurekeep** là một tòa lâu đài của gia tộc Azure.
+      - **Dragonia**: lãnh địa của nhà Le Gardien.
+      - **Westland**: vùng đất do [[james-crimson]] cai quản.
+      - **Nordic**: vùng đóng quân của [[ronald-yormont]].
+      - **Eden**: vương quốc cổ, nơi xảy ra [[tham-hoa-eden]] và [[diet-chung-merseide]].
+      - **Hoàng đô**: nơi đặt triều đình.
+  - title: Các gia tộc
+    body: |
+      - **Azure**: [[darian-azure]], [[rickard-azure-566]], [[ricktor-azure]], [[harold-azure]], [[merlin-azure]]. Một nhân vật cổ xưa tên [[darion-azure]] gắn với cuộc diệt chủng Merseide; cần phân biệt Darion với Darian.
+      - **Karrel**: do [[edwin-karrel]] sáng lập năm 526; gồm [[edward-karrel]], [[edgard-karrel]], [[caster-karrel]].
+      - **Frankia**: dòng hoàng đế gồm [[dennis-frankia]], [[sebastian-frankia]], [[henry-frankia]], [[leopold-frankia]], [[martin-frankia]].
+      - **Le Gardien**: các con gái của [[roland-le-gardien]], trong đó có [[isabelle-le-gardien]].
+      - **Faether**: hoàng tộc Eden, gồm [[taira-faether]], [[james-faether]], [[harvey-faether]].
+      - **Avarre**: gắn với [[lionel-avarre]] và [[martel-avarre]]; Giáo hội Avarre cũng mang tên này.
+      - **Crimson** ([[james-crimson]]), **Lyceria** ([[helen-lyceria]]), **Yormont** ([[ronald-yormont]], [[florence-yormont]]) và **Youmitte** ([[florian-youmitte]], [[filippe-youmitte]]).
+  - title: Giáo hội Avarre
+    body: |
+      Giáo hội có ảnh hưởng chính trị lớn. [[leopold-frankia]] là giám mục của Giáo hội và được Giáo hội hỗ trợ lên ngôi năm 605. Giáo hoàng Richard II bị [[lionel-avarre]] và [[edgard-karrel]] đánh bại năm 607; Edgard làm giáo hoàng từ 607 đến khi bị giết năm 609, rồi Lionel kế nhiệm.
+  - title: Bí mật cốt lõi — Merseide, Sein và Attila
+    body: |
+      **Merseide** là dân tộc cổ xưa đã trung thành phụng sự Đức Chúa hàng nghìn năm, rồi bị diệt chủng trong [[diet-chung-merseide]].
+
+      **Sein** là cậu bé sống sót. Nỗi oán hận của Sein trở thành nguồn gốc của **Attila**, một thực thể tà ác cần cơ thể vật lý để tồn tại. Cơ thể nguyên thủy của Sein là trung tâm của Attila, được ví như "tim bào". Attila phân tách thành nhiều **bào tử** có thể tạo ra sinh vật kỳ bí như rồng; một sinh vật như vậy đã tấn công Edgard năm 575 ([[attila-tan-cong-edgard]]).
+
+      **Đức Chúa** muốn người Merseide có cơ hội tồn tại trở lại, nên Sein cần sống sót và có hậu duệ. [[james-faether]] là người phong ấn cơ thể gốc của Sein ([[phong-an-sein]]).
+
+      Bảy mảnh linh hồn của Sein hoàn toàn khác với bào tử Attila; hai hệ thống này không được đồng nhất. Nhân vật [[merlin-azure]] mang một trong bảy mảnh đó.
+  - title: Hệ thống siêu nhiên
+    body: |
+      | Hệ thống | Bản chất | Liên quan |
+      |---|---|---|
+      | Bào tử Attila | Thực thể vật chất từ oán hận, tạo ra sinh vật kỳ bí | Sein, Attila, [[edgard-karrel]] |
+      | Bảy mảnh linh hồn Sein | Các phần linh hồn độc lập với bào tử | Sein, [[merlin-azure]] |
+      | Phong ấn cơ thể Sein | Nghi thức bảo toàn cơ thể gốc | [[james-faether]] |
+      | Năng lực biết quá khứ | Biết mọi chuyện đã xảy ra, nhưng vẫn cần "tra cứu" | [[leopold-frankia]] |
+  - title: Dòng thời gian chính
+    body: |
+      - Khoảng 600 trước Năm 1: [[tham-hoa-eden]]
+      - Khoảng năm 121: [[diet-chung-merseide]]
+      - Sau năm 121: [[phong-an-sein]]
+      - 566: [[florian-cuop-ngoi]]
+      - 569–585: [[noi-chien-ke-vi-karrel]]
+      - 575: [[attila-tan-cong-edgard]]
+      - 581: [[lat-do-florian]]
+      - 586: [[giai-dau-dau-tien]]
+      - 589: [[cai-chet-ricktor-azure]]
+      - 590: [[giai-dau-thu-hai]]
+      - 596: [[merlin-tu-nan]]
+      - 603: [[harold-hoi-sinh]]
+      - 604: [[cai-chet-isabelle]]
+      - 605: [[henry-bi-sat-hai]], [[xu-tram-rickard]]
+      - 605–612: [[chien-tranh-chong-leopold]]
+      - 607: [[edgard-tro-thanh-giao-hoang]]
+      - 612: [[tran-tu-chien-612]]
+      - 613: [[cai-chet-caster]]
+  - title: Thứ bậc trí tuệ chính trị
+    body: |
+      Theo đánh giá đã xác lập: [[edwin-karrel]] ≥ [[nemo]] ≥ [[darian-azure]] ≥ [[dennis-frankia]] > [[edgard-karrel]] > [[lionel-avarre]] ≥ [[ronald-yormont]] > [[leopold-frankia]] ≥ [[rickard-azure-566]] > [[andreas-azure]] ≥ [[caster-karrel]] > [[florian-youmitte]].
+
+      [[harold-azure]] sau khi hồi sinh được mô tả là vượt Caster về thao túng chính trị; vị trí chính xác của anh chưa được xếp. Trí tuệ chính trị khác với năng lực siêu nhiên: Leopold biết nhiều không có nghĩa hắn quyết định tốt hơn.
+  - title: Hướng phát triển (chưa chốt)
+    body: |
+      Các điểm sau chưa có lời giải cuối cùng:
+
+      - Quan hệ bản thể giữa Sein và Attila; cơ chế biến oán hận thành bào tử.
+      - Vì sao Đức Chúa không trực tiếp tiêu diệt Attila, và vì sao bảo toàn Sein quan trọng hơn.
+      - Cách phá phong ấn cơ thể gốc Sein mà không giải phóng Attila; vai trò của bảy mảnh linh hồn trong việc phục hồi người Merseide.
+      - Việc [[arthur]] thay linh hồn [[harold-azure]] bằng một mảnh linh hồn Sein, và quan hệ của Arthur với [[james-faether]].
+      - Vì sao Đức Chúa ban cho [[leopold-frankia]] năng lực biết quá khứ.
+      - Nguyên nhân cái chết của Harold (609), [[andreas-azure]] (619) và [[edgard-karrel]] (609); diễn biến khủng hoảng kế vị Azureknight sau cái chết của [[darian-azure]] năm 620.

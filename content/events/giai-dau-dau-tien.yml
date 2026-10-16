@@ -1,0 +1,12 @@
+id: giai-dau-dau-tien
+type: event
+name: Giải đấu giành Isabelle lần thứ nhất
+universe: asarya
+participants: [ricktor-azure, edgard-karrel, isabelle-le-gardien]
+date: Năm 586
+order: 586
+summary: Ricktor Azure đánh bại Edgard Karrel để giành quyền kết hôn với Isabelle Le Gardien.
+sections:
+  - title: Diễn biến
+    body: |
+      [[ricktor-azure]] thắng giải đấu đầu tiên, đánh bại [[edgard-karrel]], và giành quyền kết hôn với [[isabelle-le-gardien]]. Cả Ricktor và Isabelle khi đó 15 tuổi.

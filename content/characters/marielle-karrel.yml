@@ -1,0 +1,14 @@
+id: marielle-karrel
+type: character
+name: Marielle Karrel
+universe: asarya
+summary: Con gái của Edgard Karrel và Isabelle Le Gardien, sinh năm 594.
+tags: [Gia tộc Karrel]
+facts:
+  Sinh: 594
+  Gia tộc: Karrel
+related: [edgard-karrel, isabelle-le-gardien]
+sections:
+  - title: Gia đình
+    body: |
+      Marielle là con của [[edgard-karrel]] và [[isabelle-le-gardien]].

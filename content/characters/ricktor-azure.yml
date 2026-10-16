@@ -1,0 +1,22 @@
+id: ricktor-azure
+type: character
+name: Ricktor Azure
+universe: asarya
+aliases: [Blue Knight]
+summary: Hiệp sĩ tài năng được gọi là Blue Knight, con thứ hai của Darian, chết ngoài ý muốn năm 589 sau cuộc đối đầu với Rickard và Isabelle.
+tags: [Gia tộc Azure, Hiệp sĩ]
+facts:
+  Sinh: 571
+  Mất: 589
+  Biệt danh: Blue Knight
+  Gia tộc: Azure
+related: [darian-azure, rickard-azure-566, isabelle-le-gardien, harold-azure, julien, giai-dau-dau-tien, cai-chet-ricktor-azure]
+sections:
+  - title: Tiểu sử
+    body: |
+      Ricktor là em trai của [[rickard-azure-566]], được xem là một trong những chiến binh xuất sắc nhất Azureknight. Năm 586, ở tuổi 15, anh thắng giải đấu đầu tiên và đánh bại [[edgard-karrel]] để giành quyền kết hôn với [[isabelle-le-gardien]] ([[giai-dau-dau-tien]]).
+
+      Năm 589, anh phát hiện quan hệ giữa Rickard và Isabelle. Anh chết trong cuộc đối đầu sau đó, một tai nạn chứ không phải vụ giết người có kế hoạch ([[cai-chet-ricktor-azure]]). [[harold-azure]] chứng kiến sự việc.
+  - title: Julien
+    body: |
+      [[julien]], sinh sau khi anh mất, được công khai là con của Ricktor nhưng thực tế là con của Rickard.

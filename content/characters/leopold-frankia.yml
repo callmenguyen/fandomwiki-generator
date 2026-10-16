@@ -1,0 +1,35 @@
+id: leopold-frankia
+type: character
+name: Leopold Frankia
+universe: asarya
+summary: Bạo vương thuần ác, giám mục Giáo hội Avarre rồi hoàng đế 605–612, có năng lực biết mọi chuyện đã xảy ra; gây ra cái chết của Isabelle và tiết lộ bí mật cho Edgard.
+tags: [Gia tộc Frankia, Phản diện, Chưa chốt]
+facts:
+  Sinh: 575
+  Trị vì: 605–612
+  Gia tộc: Frankia
+  Năng lực: Biết mọi chuyện đã xảy ra (cần tra cứu)
+  Trạng thái: Có phần chưa chốt
+related: [dennis-frankia, sebastian-frankia, henry-frankia, isabelle-le-gardien, edgard-karrel, rickard-azure-566, caster-karrel, lionel-avarre, cai-chet-isabelle, xu-tram-rickard, chien-tranh-chong-leopold, tran-tu-chien-612]
+sections:
+  - title: Tiểu sử
+    body: |
+      Leopold là con út của [[dennis-frankia]]. Năm 589, ở tuổi 14, hắn nhận từ bỏ vương quyền, từ chối kết hôn và theo học tại Giáo hội Avarre, trở thành giám mục. Bề ngoài hắn không muốn xung đột kế vị với anh trai [[sebastian-frankia]], nhưng sau cái chết của Sebastian năm 598, dã tâm của hắn ngày càng lớn.
+
+      Từ 598 đến 605 hắn vẫn hoạt động như giám mục, âm thầm gây dựng thế lực và uy tín trong Giáo hội. Sau cái chết của [[henry-frankia]], hắn được Giáo hội Avarre hỗ trợ lên ngai vàng, trị vì từ 605 đến 612.
+  - title: Năng lực
+    body: |
+      Đức Chúa ban cho Leopold từ rất sớm năng lực **biết mọi chuyện đã xảy ra**. Năng lực này cần "tra cứu" chứ không phải nắm rõ tất cả, và không cho phép biết chuyện đang diễn ra hay sẽ xảy ra. Nhờ nó, Leopold khám phá những bí mật tưởng đã bị chôn vùi, nhưng biết sự thật không đồng nghĩa với hiểu động cơ con người hay quyết định tốt.
+  - title: Isabelle và Edgard
+    body: |
+      Hắn yêu [[isabelle-le-gardien]] theo kiểu chiếm hữu, dùng bí mật về Rickard và Isabelle để đe dọa nàng. Năm 604, hắn cố cưỡng đoạt nàng và vô ý khiến nàng chết ([[cai-chet-isabelle]]). Sau đó hắn tiết lộ bí mật cho [[edgard-karrel]], khai thác mâu thuẫn vốn có giữa Edgard và [[rickard-azure-566]]. Năm 605 hắn ra lệnh xử trảm Rickard ([[xu-tram-rickard]]).
+  - title: Chiến tranh
+    body: |
+      Hắn đối đầu phe kháng chiến của [[caster-karrel]] và [[martin-frankia]] ([[chien-tranh-chong-leopold]]), giết [[edgard-karrel]] năm 609, và đến đầu 612 bị [[lionel-avarre]] đánh bại ([[tran-tu-chien-612]]).
+  - title: Hướng phát triển (chưa chốt)
+    body: |
+      - Vì sao Đức Chúa ban năng lực này cho Leopold, và nó có giới hạn nào về phạm vi, cách dùng hay độ chính xác.
+      - Leopold biết bí mật về Ricktor bằng cách nào và từ khi nào; động cơ chiếm hữu Isabelle hình thành thế nào.
+      - Mục đích cụ thể khi hắn tiết lộ bí mật cho Edgard.
+      - Hắn có biết bí mật về Sein, [[arthur]] hay [[harold-azure]] không.
+      - Nguyên nhân hắn giết Edgard năm 609 và số phận của hắn sau 612.

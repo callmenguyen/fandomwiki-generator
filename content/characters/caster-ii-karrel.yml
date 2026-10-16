@@ -1,0 +1,19 @@
+id: caster-ii-karrel
+type: character
+name: Caster II Karrel
+universe: asarya
+summary: Con trai Caster Karrel và Seraphine Azure, lên nắm quyền với sự giúp đỡ của Merlin nhưng sau đó phản bội Merlin.
+tags: [Gia tộc Karrel, Chưa chốt]
+facts:
+  Gia tộc: Karrel
+  Cha: Caster Karrel
+  Mẹ: Seraphine Azure
+  Trạng thái: Động cơ phản bội chưa chốt
+related: [caster-karrel, seraphine-azure, merlin-azure]
+sections:
+  - title: Tiểu sử
+    body: |
+      Caster II sinh sau cái chết của [[caster-karrel]] và lên nắm quyền với sự giúp đỡ của [[merlin-azure]]. Cuối cùng anh phản bội Merlin, một bi kịch quan trọng của tuyến truyện vì Merlin từng ngưỡng mộ cha anh.
+  - title: Hướng phát triển (chưa chốt)
+    body: |
+      Động cơ cụ thể khiến Caster II phản bội Merlin chưa được xác định.

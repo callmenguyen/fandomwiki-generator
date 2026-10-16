@@ -1,0 +1,15 @@
+id: darion-azure
+type: character
+name: Darion Azure
+universe: asarya
+summary: Người đứng đầu nhà Azure thời xa xưa, lãnh đạo cuộc diệt chủng Merseide tại Eden; không phải Darian Azure.
+tags: [Gia tộc Azure]
+facts:
+  Gia tộc: Azure
+  Sinh: Khoảng năm 92
+  Mất: Năm 131 (39 tuổi)
+related: [diet-chung-merseide, darian-azure]
+sections:
+  - title: Vai trò
+    body: |
+      Darion lãnh đạo [[diet-chung-merseide]]. Cần phân biệt ông với [[darian-azure]], lãnh chúa tối cao của Azureknight thời kỳ gần câu chuyện chính.

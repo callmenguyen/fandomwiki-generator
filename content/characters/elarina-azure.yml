@@ -1,0 +1,15 @@
+id: elarina-azure
+type: character
+name: Elarina Azure
+universe: asarya
+summary: Con gái của Darian Azure, kết hôn với James Crimson, lãnh chúa tối cao của Westland.
+tags: [Gia tộc Azure]
+facts:
+  Sinh: 573
+  Gia tộc: Azure
+  Chồng: James Crimson
+related: [darian-azure, james-crimson]
+sections:
+  - title: Tiểu sử
+    body: |
+      Elarina là chị gái của [[harold-azure]] và kết hôn với [[james-crimson]]. Vai trò của bà trong các biến cố chính trị chưa được phát triển.
